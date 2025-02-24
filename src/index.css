@@ -1,0 +1,16 @@
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(227, 224, 221);
+ }
+ img{
+  height: 70px;
+  width: 210px;
+ }
+ #root{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
